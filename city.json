@@ -5,140 +5,140 @@
             "country": "IR",
             "en": "Mashhad",
             "fa": "مشهد",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "نیشابور",
             "country": "IR",
             "en": "Nishapur",
             "fa": "نیشابور",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "سبزوار",
             "country": "IR",
             "en": "Sabzevar",
             "fa": "سبزوار",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "تربت حیدریه",
             "country": "IR",
             "en": "Torbat-e Heydarieh",
             "fa": "تربت حیدریه",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "قوچان",
             "country": "IR",
             "en": "Quchan",
             "fa": "قوچان",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "کاشمر",
             "country": "IR",
             "en": "Kashmar",
             "fa": "کاشمر",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "بردسکن",
             "country": "IR",
             "en": "Bardaskan",
             "fa": "بردسکن",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "گناباد",
             "country": "IR",
             "en": "Gonabad",
             "fa": "گناباد",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "خواف",
             "country": "IR",
             "en": " خواف",
             "fa": "خواف",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "درگز",
             "country": "IR",
             "en": "Dargaz",
             "fa": "درگز",
-            "region": "KHR"
+            "region": "IR-KHR"
         },
         {
             "ar": "طهران",
             "country": "IR",
             "en": "Tehran",
             "fa": "تهران",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "شهر ری",
             "country": "IR",
             "en": "Rey",
             "fa": "شهر ری",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "اسلامشهر",
             "country": "IR",
             "en": "Eslamshahr",
             "fa": "اسلامشهر",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "کرج",
             "country": "IR",
             "en": "Karaj",
             "fa": "کرج",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "شهریار",
             "country": "IR",
             "en": "Shahriar",
             "fa": "شهریار",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "ورامین",
             "country": "IR",
             "en": "Varamin",
             "fa": "ورامین",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "پاکدشت",
             "country": "IR",
             "en": "Pakdasht",
             "fa": "پاکدشت",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "قرچک",
             "country": "IR",
             "en": "Qarchak",
             "fa": "قرچک",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "پیشوا",
             "country": "IR",
             "en": "Pishva",
             "fa": "پیشوا",
-            "region": "TEH"
+            "region": "IR-TEH"
         },
         {
             "ar": "رباط‌کریم",
             "country": "IR",
             "en": "Robat Karim",
             "fa": "رباط‌کریم",
-            "region": "TEH"
+            "region": "IR-TEH"
         }
     ]
 }
