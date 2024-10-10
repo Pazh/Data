@@ -1,0 +1,274 @@
+{
+    "links": [
+        {
+            "title": "Instagram",
+            "type": "instagram",
+            "url": "https://www.instagram.com/YOURNAME"
+        },
+        {
+            "title": "Facebook",
+            "type": "facebook",
+            "url": "https://www.facebook.com/YOURNAME"
+        },
+        {
+            "title": "Twitter",
+            "type": "twitter",
+            "url": "https://twitter.com/YOURNAME"
+        },
+        {
+            "title": "Youtube",
+            "type": "youtube",
+            "url": "https://www.youtube.com/channel/YOURCHANNELID"
+        },
+        {
+            "title": "Linkedin",
+            "type": "linkedin",
+            "url": "https://www.linkedin.com/in/YOURNAME"
+        },
+        {
+            "title": "Pinterest",
+            "type": "pinterest",
+            "url": "https://www.pinterest.com/YOURNAME"
+        },
+        {
+            "title": "Tiktok",
+            "type": "tiktok",
+            "url": "https://www.tiktok.com/@YOURNAME"
+        },
+        {
+            "title": "Snapchat",
+            "type": "snapchat",
+            "url": "https://www.snapchat.com/add/YOURNAME"
+        },
+        {
+            "title": "Telegram",
+            "type": "telegram",
+            "url": "https://t.me/YOURNAME"
+        },
+        {
+            "title": "Whatsapp",
+            "type": "whatsapp",
+            "url": "https://wa.me/YOURNUMBER"
+        },
+        {
+            "title": "Twitch",
+            "type": "twitch",
+            "url": "https://www.twitch.tv/YOURNAME"
+        },
+        {
+            "title": "Discord",
+            "type": "discord",
+            "url": "https://discord.gg/YOURDISCORDINVITE"
+        },
+        {
+            "title": "Reddit",
+            "type": "reddit",
+            "url": "https://www.reddit.com/user/YOURNAME"
+        },
+        {
+            "title": "Github",
+            "type": "github",
+            "url": "https://github.com/YOURNAME"
+        },
+        {
+            "title": "Gitlab",
+            "type": "gitlab",
+            "url": "https://gitlab.com/YOURNAME"
+        },
+        {
+            "title": "Medium",
+            "type": "medium",
+            "url": "https://medium.com/@YOURNAME"
+        },
+        {
+            "title": "Tumblr",
+            "type": "tumblr",
+            "url": "https://YOURNAME.tumblr.com"
+        },
+        {
+            "title": "Vimeo",
+            "type": "vimeo",
+            "url": "https://vimeo.com/YOURNAME"
+        },
+        {
+            "title": "Soundcloud",
+            "type": "soundcloud",
+            "url": "https://soundcloud.com/YOURNAME"
+        },
+        {
+            "title": "Spotify",
+            "type": "spotify",
+            "url": "https://open.spotify.com/user/YOURNAME"
+        },
+        {
+            "title": "Dribbble",
+            "type": "dribbble",
+            "url": "https://dribbble.com/YOURNAME"
+        },
+        {
+            "title": "Behance",
+            "type": "behance",
+            "url": "https://www.behance.net/YOURNAME"
+        },
+        {
+            "title": "Deviantart",
+            "type": "deviantart",
+            "url": "https://www.deviantart.com/YOURNAME"
+        },
+        {
+            "title": "Flickr",
+            "type": "flickr",
+            "url": "https://www.flickr.com/photos/YOURNAME"
+        },
+        {
+            "title": "500px",
+            "type": "500px",
+            "url": "https://500px.com/p/YOURNAME"
+        },
+        {
+            "title": "Etsy",
+            "type": "etsy",
+            "url": "https://www.etsy.com/shop/YOURSHOPNAME"
+        },
+        {
+            "title": "Patreon",
+            "type": "patreon",
+            "url": "https://www.patreon.com/YOURNAME"
+        },
+        {
+            "title": "Ko-fi",
+            "type": "ko-fi",
+            "url": "https://ko-fi.com/YOURNAME"
+        },
+        {
+            "title": "Buymeacoffee",
+            "type": "buymeacoffee",
+            "url": "https://www.buymeacoffee.com/YOURNAME"
+        },
+        {
+            "title": "Steamcommunity",
+            "type": "steamcommunity",
+            "url": "https://steamcommunity.com/id/YOURNAME"
+        },
+        {
+            "title": "Epicgames",
+            "type": "epicgames",
+            "url": "https://www.epicgames.com/store/en-US/profile/YOURNAME"
+        },
+        {
+            "title": "Playstation",
+            "type": "playstation",
+            "url": "https://my.playstation.com/profile/YOURNAME"
+        },
+        {
+            "title": "Xbox",
+            "type": "xbox",
+            "url": "https://account.xbox.com/profile?gamertag=YOURNAME"
+        },
+        {
+            "title": "Mastodon",
+            "type": "mastodon",
+            "url": "https://YOURINSTANCE.com/@YOURNAME"
+        },
+        {
+            "title": "Minds",
+            "type": "minds",
+            "url": "https://www.minds.com/YOURNAME"
+        },
+        {
+            "title": "Gab",
+            "type": "gab",
+            "url": "https://gab.com/YOURNAME"
+        },
+        {
+            "title": "Parler",
+            "type": "parler",
+            "url": "https://parler.com/YOURNAME"
+        },
+        {
+            "title": "Gettr",
+            "type": "gettr",
+            "url": "https://gettr.com/user/YOURNAME"
+        },
+        {
+            "title": "Truthsocial",
+            "type": "truthsocial",
+            "url": "https://truthsocial.com/@YOURNAME"
+        },
+        {
+            "title": "Wt. Social",
+            "type": "wt_social",
+            "url": "https://wt.social/user/YOURNAME"
+        },
+        {
+            "title": "Diaspora",
+            "type": "diaspora",
+            "url": "https://YOURPOD.diaspora.software/u/YOURNAME"
+        },
+        {
+            "title": "Friendica",
+            "type": "friendica",
+            "url": "https://YOURINSTANCE.friendica.social/profile/YOURNAME"
+        },
+        {
+            "title": "Pleroma",
+            "type": "pleroma",
+            "url": "https://YOURINSTANCE.pleroma.social/@YOURNAME"
+        },
+        {
+            "title": "Google Maps",
+            "type": "google_maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=YOUR+LOCATION"
+        },
+        {
+            "title": "Telegram Phone",
+            "type": "telegram_phone",
+            "url": "https://t.me/+YOURPHONENUMBER"
+        },
+        {
+            "title": "Rubika",
+            "type": "rubika",
+            "url": "https://rubika.ir/YOURRUBIKAID"
+        },
+        {
+            "title": "Eitaa",
+            "type": "eitaa",
+            "url": "https://eitaa.com/YOUR_EITAA_ID"
+        },
+        {
+            "title": "Soroush",
+            "type": "soroush",
+            "url": "https://splus.ir/YOUR_SOROUSH_ID"
+        },
+        {
+            "title": "Igap",
+            "type": "iGap",
+            "url": "https://igap.net/YOUR_IGAP_ID"
+        },
+        {
+            "title": "Wispi",
+            "type": "wispi",
+            "url": "https://wispi.me/channel/YOUR_WISPI_ID"
+        },
+        {
+            "title": "Bale",
+            "type": "bale",
+            "url": "https://bale.ai/YOUR_BALE_ID"
+        },
+        {
+            "title": "Aparat",
+            "type": "aparat",
+            "url": "https://www.aparat.com/YOUR_APARAT_CHANNEL"
+        },
+        {
+            "title": "Virgool",
+            "type": "virgool",
+            "url": "https://virgool.io/@YOURUSERNAME"
+        },
+        {
+            "title": "Website",
+            "type": "website",
+            "url": "https://www.example.com"
+        }
+    ]
+}
