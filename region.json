@@ -5,308 +5,308 @@
             "country": "IR",
             "en": "West Azerbaijan",
             "fa": "آذربایجان غربی",
-            "code": "WAZ"
+            "code": "IR-WAZ"
         },
         {
             "ar": "أردبيل",
             "country": "IR",
             "en": "Ardabil",
             "fa": "اردبیل",
-            "code": "ARD"
+            "code": "IR-ARD"
         },
         {
             "ar": "بوشهر",
             "country": "IR",
             "en": "Bushehr",
             "fa": "بوشهر",
-            "code": "BSH"
+            "code": "IR-BSH"
         },
         {
             "ar": "چابهار",
             "country": "IR",
             "en": "Chabahar",
             "fa": "چابهار",
-            "code": "CHB"
+            "code": "IR-CHB"
         },
         {
             "ar": "فارس",
             "country": "IR",
             "en": "Fars",
             "fa": "فارس",
-            "code": "FAR"
+            "code": "IR-FAR"
         },
         {
             "ar": "غيلان",
             "country": "IR",
             "en": "Gilan",
             "fa": "گیلان",
-            "code": "GIL"
+            "code": "IR-GIL"
         },
         {
             "ar": "قزوين",
             "country": "IR",
             "en": "Qazvin",
             "fa": "قزوین",
-            "code": "QAZ"
+            "code": "IR-QAZ"
         },
         {
             "ar": "كرمان",
             "country": "IR",
             "en": "Kerman",
             "fa": "کرمان",
-            "code": "KER"
+            "code": "IR-KER"
         },
         {
             "ar": "كرمانشاه",
             "country": "IR",
             "en": "Kermanshah",
             "fa": "کرمانشاه",
-            "code": "KSH"
+            "code": "IR-KSH"
         },
         {
             "ar": "خوزستان",
             "country": "IR",
             "en": "Khuzestan",
             "fa": "خوزستان",
-            "code": "KHZ"
+            "code": "IR-KHZ"
         },
         {
             "ar": "كوهمغان",
             "country": "IR",
             "en": "Kohgiluyeh and Boyer-Ahmad",
             "fa": "کهگیلویه و بویراحمد",
-            "code": "KBA"
+            "code": "IR-KBA"
         },
         {
             "ar": "كردستان",
             "country": "IR",
             "en": "Kurdistan",
             "fa": "کردستان",
-            "code": "KOR"
+            "code": "IR-KOR"
         },
         {
             "ar": "لارستان",
             "country": "IR",
             "en": "Lorestan",
             "fa": "لرستان",
-            "code": "LOR"
+            "code": "IR-LOR"
         },
         {
             "ar": "مازندران",
             "country": "IR",
             "en": "Mazandaran",
             "fa": "مازندران",
-            "code": "MAZ"
+            "code": "IR-MAZ"
         },
         {
             "ar": "مركزي",
             "country": "IR",
             "en": "Markazi",
             "fa": "مرکزی",
-            "code": "MRK"
+            "code": "IR-MRK"
         },
         {
             "ar": "هرمزغان",
             "country": "IR",
             "en": "Hormozgan",
             "fa": "هرمزگان",
-            "code": "HOR"
+            "code": "IR-HOR"
         },
         {
             "ar": "إصفهان",
             "country": "IR",
             "en": "Isfahan",
             "fa": "اصفهان",
-            "code": "ISF"
+            "code": "IR-ISF"
         },
         {
             "ar": "إيلام",
             "country": "IR",
             "en": "Ilam",
             "fa": "ایلام",
-            "code": "ILA"
+            "code": "IR-ILA"
         },
         {
             "ar": "قُم",
             "country": "IR",
             "en": "Qom",
             "fa": "قم",
-            "code": "QOM"
+            "code": "IR-QOM"
         },
         {
             "ar": "رازاوي خوراسان",
             "country": "IR",
             "en": "Razavi Khorasan",
             "fa": "خراسان رضوی",
-            "code": "KHR"
+            "code": "IR-KHR"
         },
         {
             "ar": "شمالي خوراسان",
             "country": "IR",
             "en": "North Khorasan",
             "fa": "خراسان شمالی",
-            "code": "NKH"
+            "code": "IR-NKH"
         },
         {
             "ar": "جنوبي خوراسان",
             "country": "IR",
             "en": "South Khorasan",
             "fa": "خراسان جنوبی",
-            "code": "SKH"
+            "code": "IR-SKH"
         },
         {
             "ar": "سمنان",
             "country": "IR",
             "en": "Semnan",
             "fa": "سمنان",
-            "code": "SEM"
+            "code": "IR-SEM"
         },
         {
             "ar": "سيستان وبلوشستان",
             "country": "IR",
             "en": "Sistan and Baluchestan",
             "fa": "سیستان و بلوچستان",
-            "code": "SBA"
+            "code": "IR-SBA"
         },
         {
             "ar": "طهران",
             "country": "IR",
             "en": "Tehran",
             "fa": "تهران",
-            "code": "TEH"
+            "code": "IR-TEH"
         },
         {
             "ar": "زنجان",
             "country": "IR",
             "en": "Zanjan",
             "fa": "زنجان",
-            "code": "ZAN"
+            "code": "IR-ZAN"
         },
         {
             "ar": "بغداد",
             "country": "IQ",
             "en": "Baghdad",
             "fa": "بغداد",
-            "code": "BGD"
+            "code": "IQ-BGD"
         },
         {
             "ar": "البصرة",
             "country": "IQ",
             "en": "Basra",
             "fa": "بصره",
-            "code": "BSR"
+            "code": "IQ-BSR"
         },
         {
             "ar": "نينوى",
             "country": "IQ",
             "en": "Nineveh",
             "fa": "نینوا",
-            "code": "NIN"
+            "code": "IQ-NIN"
         },
         {
             "ar": "صلاح الدين",
             "country": "IQ",
             "en": "Salah al-Din",
             "fa": "صلاح الدین",
-            "code": "SAD"
+            "code": "IQ-SAD"
         },
         {
             "ar": "الأنبار",
             "country": "IQ",
             "en": "Anbar",
             "fa": "انبار",
-            "code": "ANB"
+            "code": "IQ-ANB"
         },
         {
             "ar": "ديالى",
             "country": "IQ",
             "en": "Diyala",
             "fa": "دیاله",
-            "code": "DIY"
+            "code": "IQ-DIY"
         },
         {
             "ar": "واسط",
             "country": "IQ",
             "en": "Wasit",
             "fa": "واسط",
-            "code": "WAS"
+            "code": "IQ-WAS"
         },
         {
             "ar": "ميسان",
             "country": "IQ",
             "en": "Maysan",
             "fa": "میسان",
-            "code": "MYS"
+            "code": "IQ-MYS"
         },
         {
             "ar": "ذي قار",
             "country": "IQ",
             "en": "Dhi Qar",
             "fa": "ذی قار",
-            "code": "DHQ"
+            "code": "IQ-DHQ"
         },
         {
             "ar": "المثنى",
             "country": "IQ",
             "en": "Al-Muthanna",
             "fa": "المثنی",
-            "code": "MUT"
+            "code": "IQ-MUT"
         },
         {
             "ar": "القادسية",
             "country": "IQ",
             "en": "Qadisiyah",
             "fa": "قادسیه",
-            "code": "QAD"
+            "code": "IQ-QAD"
         },
         {
             "ar": "كربلاء",
             "country": "IQ",
             "en": "Karbala",
             "fa": "کربلا",
-            "code": "KAR"
+            "code": "IQ-KAR"
         },
         {
             "ar": "بابل",
             "country": "IQ",
             "en": "Babil",
             "fa": "بابل",
-            "code": "BAB"
+            "code": "IQ-BAB"
         },
         {
             "ar": "النجف",
             "country": "IQ",
             "en": "Najaf",
             "fa": "نجف",
-            "code": "NAJ"
+            "code": "IQ-NAJ"
         },
         {
             "ar": "كركوك",
             "country": "IQ",
             "en": "Kirkuk",
             "fa": "کرکوک",
-            "code": "KIR"
+            "code": "IQ-KIR"
         },
         {
             "ar": "سليمانية",
             "country": "IQ",
             "en": "Sulaymaniyah",
             "fa": "سلیمانیه",
-            "code": "SUL"
+            "code": "IQ-SUL"
         },
         {
             "ar": "أربيل",
             "country": "IQ",
             "en": "Erbil",
             "fa": "اربیل",
-            "code": "ERB"
+            "code": "IQ-ERB"
         },
         {
             "ar": "دهوك",
             "country": "IQ",
             "en": "Duhok",
             "fa": "دهوک",
-            "code": "DUH"
+            "code": "IQ-DUH"
         }
     ]
 }
