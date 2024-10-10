@@ -1,0 +1,729 @@
+{
+    "business-position": [
+        {
+            "ar": "عميل",
+            "en": "Customer",
+            "fa": "مشتری"
+        },
+        {
+            "ar": "الرئيس التنفيذي",
+            "en": "Chief Executive Officer",
+            "fa": "مدیرعامل"
+        },
+        {
+            "ar": "المدير التنفيذي",
+            "en": "Executive Director",
+            "fa": "مدیرعامل اجرایی"
+        },
+        {
+            "ar": "المدير التنفيذي الكبير",
+            "en": "Senior CEO",
+            "fa": "مدیرعامل ارشد"
+        },
+        {
+            "ar": "مدير التسويق",
+            "en": "Marketing Manager",
+            "fa": "مدیر بازاریابی"
+        },
+        {
+            "ar": "مدير التسويق الرقمي",
+            "en": "Digital Marketing Manager",
+            "fa": "مدیر بازاریابی دیجیتال"
+        },
+        {
+            "ar": "مدير التسويق للمحتوى",
+            "en": "Content Marketing Manager",
+            "fa": "مدیر بازاریابی محتوا"
+        },
+        {
+            "ar": "مدير التسويق عبر وسائل التواصل الاجتماعي",
+            "en": "Social Media Marketing Manager",
+            "fa": "مدیر بازاریابی شبکه های اجتماعی"
+        },
+        {
+            "ar": "مدير المبيعات",
+            "en": "Sales Manager",
+            "fa": "مدیر فروش"
+        },
+        {
+            "ar": "مدير المبيعات عبر الإنترنت",
+            "en": "Online Sales Manager",
+            "fa": "مدیر فروش آنلاین"
+        },
+        {
+            "ar": "مدير المبيعات الإقليمي",
+            "en": "Regional Sales Manager",
+            "fa": "مدیر فروش منطقه ای"
+        },
+        {
+            "ar": "مدير المبيعات الدولية",
+            "en": "International Sales Manager",
+            "fa": "مدیر فروش بین المللی"
+        },
+        {
+            "ar": "مدير مبيعات B2B",
+            "en": "B2B Sales Manager",
+            "fa": "مدیر فروش B2B"
+        },
+        {
+            "ar": "مدير مبيعات B2C",
+            "en": "B2C Sales Manager",
+            "fa": "مدیر فروش B2C"
+        },
+        {
+            "ar": "مدير المنتج",
+            "en": "Product Manager",
+            "fa": "مدیر محصول"
+        },
+        {
+            "ar": "مدير المشروع",
+            "en": "Project Manager",
+            "fa": "مدیر پروژه"
+        },
+        {
+            "ar": "مدير العمليات",
+            "en": "Operations Manager",
+            "fa": "مدیر عملیات"
+        },
+        {
+            "ar": "مدير الإنتاج",
+            "en": "Production Manager",
+            "fa": "مدیر تولید"
+        },
+        {
+            "ar": "مدير الموارد البشرية",
+            "en": "Human Resources Manager",
+            "fa": "مدیر منابع انسانی"
+        },
+        {
+            "ar": "مدير الموارد البشرية الكبير",
+            "en": "Senior Human Resources Manager",
+            "fa": "مدیر منابع انسانی ارشد"
+        },
+        {
+            "ar": "مدير المالية",
+            "en": "Finance Manager",
+            "fa": "مدیر مالی"
+        },
+        {
+            "ar": "مدير المالية والمحاسبة",
+            "en": "Finance and Accounting Manager",
+            "fa": "مدیر مالی و حسابداری"
+        },
+        {
+            "ar": "مدير اللوجستيات",
+            "en": "Logistics Manager",
+            "fa": "مدیر تدارکات"
+        },
+        {
+            "ar": "مدير اللوجستيات",
+            "en": "Logistics Manager",
+            "fa": "مدیر لجستیک"
+        },
+        {
+            "ar": "مدير الاتصالات",
+            "en": "Communications Manager",
+            "fa": "مدیر ارتباطات"
+        },
+        {
+            "ar": "مدير العلاقات العامة",
+            "en": "Public Relations Manager",
+            "fa": "مدیر روابط عمومی"
+        },
+        {
+            "ar": "مدير تكنولوجيا المعلومات",
+            "en": "Information Technology Manager",
+            "fa": "مدیر فناوری اطلاعات"
+        },
+        {
+            "ar": "مدير النظم",
+            "en": "Systems Manager",
+            "fa": "مدیر سیستم ها"
+        },
+        {
+            "ar": "مدير الشبكة",
+            "en": "Network Manager",
+            "fa": "مدیر شبکه"
+        },
+        {
+            "ar": "مدير أمن الإنترنت",
+            "en": "Cybersecurity Manager",
+            "fa": "مدیر امنیت سایبری"
+        },
+        {
+            "ar": "مدير الجودة",
+            "en": "Quality Manager",
+            "fa": "مدیر کیفیت"
+        },
+        {
+            "ar": "مدير مراقبة الجودة",
+            "en": "Quality Control Manager",
+            "fa": "مدیر کنترل کیفیت"
+        },
+        {
+            "ar": "مدير مشاريع البحث والتطوير",
+            "en": "Research and Development Project Manager",
+            "fa": "مدیر پروژه های تحقیق و توسعه"
+        },
+        {
+            "ar": "مدير مشاريع تكنولوجيا المعلومات",
+            "en": "Information Technology Project Manager",
+            "fa": "مدیر پروژه های فناوری اطلاعات"
+        },
+        {
+            "ar": "مدير مشاريع البناء",
+            "en": "Construction Project Manager",
+            "fa": "مدیر پروژه های ساختمانی"
+        },
+        {
+            "ar": "أخصائي مبيعات",
+            "en": "Sales Specialist",
+            "fa": "کارشناس فروش"
+        },
+        {
+            "ar": "أخصائي التسويق",
+            "en": "Marketing Specialist",
+            "fa": "کارشناس بازاریابی"
+        },
+        {
+            "ar": "أخصائي التسويق الرقمي",
+            "en": "Digital Marketing Specialist",
+            "fa": "کارشناس بازاریابی دیجیتال"
+        },
+        {
+            "ar": "أخصائي تسويق المحتوى",
+            "en": "Content Marketing Specialist",
+            "fa": "کارشناس بازاریابی محتوا"
+        },
+        {
+            "ar": "أخصائي المحاسبة",
+            "en": "Accounting Specialist",
+            "fa": "کارشناس حسابداری"
+        },
+        {
+            "ar": "أخصائي المالية",
+            "en": "Finance Specialist",
+            "fa": "کارشناس مالی"
+        },
+        {
+            "ar": "أخصائي الضرائب",
+            "en": "Tax Specialist",
+            "fa": "کارشناس مالیات"
+        },
+        {
+            "ar": "أخصائي الموارد البشرية",
+            "en": "Human Resources Specialist",
+            "fa": "کارشناس منابع انسانی"
+        },
+        {
+            "ar": "أخصائي القانون",
+            "en": "Legal Specialist",
+            "fa": "کارشناس حقوقی"
+        },
+        {
+            "ar": "أخصائي القانون الدولي",
+            "en": "International Legal Specialist",
+            "fa": "کارشناس حقوقی بین المللی"
+        },
+        {
+            "ar": "أخصائي تكنولوجيا المعلومات",
+            "en": "Information Technology Specialist",
+            "fa": "کارشناس فناوری اطلاعات"
+        },
+        {
+            "ar": "أخصائي النظم",
+            "en": "Systems Specialist",
+            "fa": "کارشناس سیستم ها"
+        },
+        {
+            "ar": "أخصائي الشبكة",
+            "en": "Network Specialist",
+            "fa": "کارشناس شبکه"
+        },
+        {
+            "ar": "أخصائي أمن الإنترنت",
+            "en": "Cybersecurity Specialist",
+            "fa": "کارشناس امنیت سایبری"
+        },
+        {
+            "ar": "أخصائي الدعاية",
+            "en": "Advertising Specialist",
+            "fa": "کارشناس تبلیغات"
+        },
+        {
+            "ar": "أخصائي الاتصالات",
+            "en": "Communications Specialist",
+            "fa": "کارشناس ارتباطات"
+        },
+        {
+            "ar": "أخصائي العلاقات العامة",
+            "en": "Public Relations Specialist",
+            "fa": "کارشناس روابط عمومی"
+        },
+        {
+            "ar": "أخصائي البحث والتطوير",
+            "en": "Research and Development Specialist",
+            "fa": "کارشناس تحقیق و توسعه"
+        },
+        {
+            "ar": "أخصائي أبحاث السوق",
+            "en": "Market Research Specialist",
+            "fa": "کارشناس تحقیق بازار"
+        },
+        {
+            "ar": "أخصائي الجودة",
+            "en": "Quality Specialist",
+            "fa": "کارشناس کیفیت"
+        },
+        {
+            "ar": "أخصائي مراقبة الجودة",
+            "en": "Quality Control Specialist",
+            "fa": "کارشناس کنترل کیفیت"
+        },
+        {
+            "ar": "أخصائي المشروع",
+            "en": "Project Specialist",
+            "fa": "کارشناس پروژه"
+        },
+        {
+            "ar": "مصمم الجرافيك",
+            "en": "Graphic Designer",
+            "fa": "طراح گرافیک"
+        },
+        {
+            "ar": "مصمم مواقع الويب",
+            "en": "Website Designer",
+            "fa": "طراح وبسایت"
+        },
+        {
+            "ar": "مصمم تجربة المستخدم",
+            "en": "UX Designer",
+            "fa": "طراح تجربه کاربری (UX)"
+        },
+        {
+            "ar": "مصمم واجهة المستخدم",
+            "en": "UI Designer",
+            "fa": "طراح رابط کاربری (UI)"
+        },
+        {
+            "ar": "مصمم صناعي",
+            "en": "Industrial Designer",
+            "fa": "طراح صنعتی"
+        },
+        {
+            "ar": "مصمم معماري",
+            "en": "Architect",
+            "fa": "طراح معماری"
+        },
+        {
+            "ar": "مهندس البرمجيات",
+            "en": "Software Engineer",
+            "fa": "مهندس نرم افزار"
+        },
+        {
+            "ar": "مهندس كهرباء",
+            "en": "Electrical Engineer",
+            "fa": "مهندس برق"
+        },
+        {
+            "ar": "مهندس ميكانيكي",
+            "en": "Mechanical Engineer",
+            "fa": "مهندس مکانیک"
+        },
+        {
+            "ar": "مهندس مدني",
+            "en": "Civil Engineer",
+            "fa": "مهندس عمران"
+        },
+        {
+            "ar": "مهندس صناعي",
+            "en": "Industrial Engineer",
+            "fa": "مهندس صنایع"
+        },
+        {
+            "ar": "مترجم",
+            "en": "Translator",
+            "fa": "مترجم"
+        },
+        {
+            "ar": "مترجم فني",
+            "en": "Technical Translator",
+            "fa": "مترجم فنی"
+        },
+        {
+            "ar": "بائع",
+            "en": "Salesperson",
+            "fa": "فروشنده"
+        },
+        {
+            "ar": "بائع عبر الإنترنت",
+            "en": "Online Salesperson",
+            "fa": "فروشنده آنلاین"
+        },
+        {
+            "ar": "مندوب مبيعات",
+            "en": "Sales Representative",
+            "fa": "نماینده فروش"
+        },
+        {
+            "ar": "أخصائي CRM",
+            "en": "CRM Specialist",
+            "fa": "کارشناس CRM"
+        },
+        {
+            "ar": "أخصائي SEO",
+            "en": "SEO Specialist",
+            "fa": "کارشناس SEO"
+        },
+        {
+            "ar": "أخصائي SEM",
+            "en": "SEM Specialist",
+            "fa": "کارشناس SEM"
+        },
+        {
+            "ar": "محلل البيانات",
+            "en": "Data Analyst",
+            "fa": "تحلیلگر داده"
+        },
+        {
+            "ar": "محلل السوق",
+            "en": "Market Analyst",
+            "fa": "تحلیلگر بازار"
+        },
+        {
+            "ar": "محلل النظام",
+            "en": "System Analyst",
+            "fa": "تحلیلگر سیستم"
+        },
+        {
+            "ar": "أخصائي الدعم الفني",
+            "en": "Technical Support Specialist",
+            "fa": "کارشناس پشتیبانی فنی"
+        },
+        {
+            "ar": "أخصائي دعم العملاء",
+            "en": "Customer Support Specialist",
+            "fa": "کارشناس پشتیبانی مشتریان"
+        },
+        {
+            "ar": "أخصائي خدمة العملاء",
+            "en": "Customer Service Specialist",
+            "fa": "کارشناس خدمات مشتریان"
+        },
+        {
+            "ar": "عامل مخزن",
+            "en": "Warehouse Worker",
+            "fa": "انباردار"
+        },
+        {
+            "ar": "عامل خط الإنتاج",
+            "en": "Production Line Worker",
+            "fa": "کارگر خط تولید"
+        },
+        {
+            "ar": "أخصائي اللوجستيات",
+            "en": "Logistics Specialist",
+            "fa": "کارشناس لجستیک"
+        },
+        {
+            "ar": "سكرتير",
+            "en": "Secretary",
+            "fa": "منشی"
+        },
+        {
+            "ar": "رئيس القسم",
+            "en": "Department Head",
+            "fa": "رئیس بخش"
+        },
+        {
+            "ar": "أخصائي المحاسبة",
+            "en": "Accounting Specialist",
+            "fa": "متخصص حسابداری"
+        },
+        {
+            "ar": "أخصائي المالية",
+            "en": "Finance Specialist",
+            "fa": "متخصص مالی"
+        },
+        {
+            "ar": "أخصائي المبيعات",
+            "en": "Sales Specialist",
+            "fa": "متخصص فروش"
+        },
+        {
+            "ar": "أخصائي التسويق",
+            "en": "Marketing Specialist",
+            "fa": "متخصص بازاریابی"
+        },
+        {
+            "ar": "أخصائي الموارد البشرية",
+            "en": "Human Resources Specialist",
+            "fa": "متخصص منابع انسانی"
+        },
+        {
+            "ar": "أستاذ",
+            "en": "Professor",
+            "fa": "استاد"
+        },
+        {
+            "ar": "مستشار",
+            "en": "Consultant",
+            "fa": "مشاور"
+        },
+        {
+            "ar": "مدرب",
+            "en": "Trainer",
+            "fa": "مربی"
+        },
+        {
+            "ar": "كاتب محتوى",
+            "en": "Content Writer",
+            "fa": "نویسنده محتوا"
+        },
+        {
+            "ar": "محرر",
+            "en": "Editor",
+            "fa": "ویراستار"
+        },
+        {
+            "ar": "مصمم جرافيك",
+            "en": "Graphic Designer",
+            "fa": "گرافیست"
+        },
+        {
+            "ar": "كاتب",
+            "en": "Typist",
+            "fa": "تایپیست"
+        },
+        {
+            "ar": "محرر فني",
+            "en": "Technical Editor",
+            "fa": "ویراستار فنی"
+        },
+        {
+            "ar": "رسام",
+            "en": "Illustrator",
+            "fa": "تصویرگر"
+        },
+        {
+            "ar": "أخصائي العلامة التجارية",
+            "en": "Branding Specialist",
+            "fa": "کارشناس برندینگ"
+        },
+        {
+            "ar": "أخصائي التسويق الرقمي",
+            "en": "Digital Marketing Specialist",
+            "fa": "کارشناس دیجیتال مارکتینگ"
+        },
+        {
+            "ar": "أخصائي وسائل التواصل الاجتماعي",
+            "en": "Social Media Specialist",
+            "fa": "کارشناس رسانه های اجتماعی"
+        },
+        {
+            "ar": "أخصائي الإعلان عبر الإنترنت",
+            "en": "Online Advertising Specialist",
+            "fa": "کارشناس تبلیغات آنلاین"
+        },
+        {
+            "ar": "أخصائي تصميم المواقع",
+            "en": "Website Design Specialist",
+            "fa": "کارشناس طراحی وب"
+        },
+        {
+            "ar": "أخصائي تصميم الجرافيك",
+            "en": "Graphic Design Specialist",
+            "fa": "کارشناس طراحی گرافیک"
+        },
+        {
+            "ar": "أخصائي الذكاء التجاري",
+            "en": "Business Intelligence Specialist",
+            "fa": "کارشناس هوش تجاری"
+        },
+        {
+            "ar": "أخصائي تحليل البيانات",
+            "en": "Data Analysis Specialist",
+            "fa": "کارشناس تجزیه و تحلیل داده‌ها"
+        },
+        {
+            "ar": "أخصائي تحليل البيانات",
+            "en": "Data Mining Specialist",
+            "fa": "کارشناس داده کاوی"
+        },
+        {
+            "ar": "مُبرمج",
+            "en": "Programmer",
+            "fa": "برنامه‌نویس"
+        },
+        {
+            "ar": "مطور البرامج",
+            "en": "Software Developer",
+            "fa": "توسعه‌دهنده نرم‌افزار"
+        },
+        {
+            "ar": "مطور الويب",
+            "en": "Web Developer",
+            "fa": "توسعه‌دهنده وب"
+        },
+        {
+            "ar": "أخصائي التجارة الإلكترونية",
+            "en": "E-commerce Specialist",
+            "fa": "کارشناس تجارت الکترونیک"
+        },
+        {
+            "ar": "مستشار أعمال",
+            "en": "Business Consultant",
+            "fa": "مشاور کسب و کار"
+        },
+        {
+            "ar": "استراتيجي المحتوى",
+            "en": "Content Strategist",
+            "fa": "استراتژیست محتوا"
+        },
+        {
+            "ar": "مدير العلامة التجارية",
+            "en": "Brand Manager",
+            "fa": "مدیر برند"
+        },
+        {
+            "ar": "مدير المحتوى",
+            "en": "Content Manager",
+            "fa": "مدیر محتوا"
+        },
+        {
+            "ar": "أخصائي الاتصالات المؤسسية",
+            "en": "Corporate Communications Specialist",
+            "fa": "کارشناس ارتباطات سازمانی"
+        },
+        {
+            "ar": "أخصائي الشؤون الدولية",
+            "en": "International Affairs Specialist",
+            "fa": "کارشناس امور بین الملل"
+        },
+        {
+            "ar": "أخصائي أمن المعلومات",
+            "en": "Information Security Specialist",
+            "fa": "کارشناس امنیت اطلاعات"
+        },
+        {
+            "ar": "أخصائي تنمية الأعمال",
+            "en": "Business Development Specialist",
+            "fa": "کارشناس توسعه کسب و کار"
+        },
+        {
+            "ar": "أخصائي التصميم الصناعي",
+            "en": "Industrial Design Specialist",
+            "fa": "کارشناس طراحی صنعتی"
+        },
+        {
+            "ar": "أخصائي التصميم المعماري",
+            "en": "Architectural Design Specialist",
+            "fa": "کارشناس طراحی معماری"
+        },
+        {
+            "ar": "محلل مالي",
+            "en": "Financial Analyst",
+            "fa": "تحلیلگر مالی"
+        },
+        {
+            "ar": "إدارة الأزمات",
+            "en": "Crisis Management",
+            "fa": "مدیریت بحران"
+        },
+        {
+            "ar": "أخصائي تسويق المحتوى ووسائل التواصل الاجتماعي",
+            "en": "Content and Social Media Marketing Specialist",
+            "fa": "کارشناس بازاریابی محتوا و شبکه های اجتماعی"
+        },
+        {
+            "ar": "أخصائي التسويق والمبيعات",
+            "en": "Marketing and Sales Specialist",
+            "fa": "کارشناس  بازاریابی و فروش"
+        },
+        {
+            "ar": "رئيس فريق المبيعات",
+            "en": "Sales Team Leader",
+            "fa": "رئیس تیم فروش"
+        },
+        {
+            "ar": "مستشار مبيعات",
+            "en": "Sales Consultant",
+            "fa": "مشاور فروش"
+        },
+        {
+            "ar": "أخصائي المحاسبة والضرائب",
+            "en": "Accounting and Taxation Specialist",
+            "fa": "کارشناس حسابداری و مالیات"
+        },
+        {
+            "ar": "أخصائي القانون والشؤون القانونية",
+            "en": "Legal and Legal Affairs Specialist",
+            "fa": "کارشناس حقوق و امور قانونی"
+        },
+        {
+            "ar": "أخصائي القانون والعقود",
+            "en": "Legal and Contract Specialist",
+            "fa": "کارشناس حقوق و امور قراردادها"
+        },
+        {
+            "ar": "مدير عمليات الإنتاج",
+            "en": "Production Operations Manager",
+            "fa": "مدیر عملیات تولید"
+        },
+        {
+            "ar": "أخصائي التسويق الدولي",
+            "en": "International Marketing Specialist",
+            "fa": "کارشناس  بازاریابی بین الملل"
+        },
+        {
+            "ar": "أخصائي مبيعات دولي",
+            "en": "International Sales Specialist",
+            "fa": "کارشناس فروش بین الملل"
+        },
+        {
+            "ar": "مدير العمليات",
+            "en": "Operations Manager",
+            "fa": "مدیر  عملیات"
+        },
+        {
+            "ar": "مصمم UX",
+            "en": "UX Designer",
+            "fa": "طراح UX"
+        },
+        {
+            "ar": "مصمم UI",
+            "en": "UI Designer",
+            "fa": "طراح UI"
+        },
+        {
+            "ar": "أخصائي إدارة المشاريع",
+            "en": "Project Management Specialist",
+            "fa": "کارشناس  مدیریت پروژه"
+        },
+        {
+            "ar": "أخصائي إدارة مشاريع البرامج",
+            "en": "Software Project Management Specialist",
+            "fa": "کارشناس  مدیریت پروژه نرم افزاری"
+        },
+        {
+            "ar": "أخصائي إدارة مشاريع الأجهزة",
+            "en": "Hardware Project Management Specialist",
+            "fa": "کارشناس  مدیریت پروژه سخت افزاری"
+        },
+        {
+            "ar": "مدير المبيعات والتسويق",
+            "en": "Sales and Marketing Manager",
+            "fa": "مدیر  فروش و بازاریابی"
+        },
+        {
+            "ar": "أخصائي تصميم المواقع",
+            "en": "Website Design Specialist",
+            "fa": "کارشناس  طراحی سایت"
+        },
+        {
+            "ar": "أخصائي التسويق والاتصالات",
+            "en": "Marketing and Communications Specialist",
+            "fa": "کارشناس  بازاریابی و ارتباطات"
+        }
+    ]
+}
