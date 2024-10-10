@@ -307,6 +307,55 @@
             "en": "Duhok",
             "fa": "دهوک",
             "code": "IQ-DUH"
+        },
+        {
+            "ar": "أبو ظبي",
+            "country": "AE",
+            "en": "Abu Dhabi",
+            "fa": "ابوظبی",
+            "code": "AE-AZ"
+        },
+        {
+            "ar": "عجمان",
+            "country": "AE",
+            "en": "Ajman",
+            "fa": "عجمان",
+            "code": "AE-AJ"
+        },
+        {
+            "ar": "دبي",
+            "country": "AE",
+            "en": "Dubai",
+            "fa": "دبی",
+            "code": "AE-DU"
+        },
+        {
+            "ar": "الفجيرة",
+            "country": "AE",
+            "en": "Fujairah",
+            "fa": "الفجیره",
+            "code": "AE-FU"
+        },
+        {
+            "ar": "راس الخيمة",
+            "country": "AE",
+            "en": "Ras Al Khaimah",
+            "fa": "راس الخیمه",
+            "code": "AE-RK"
+        },
+        {
+            "ar": "الشارقة",
+            "country": "AE",
+            "en": "Sharjah",
+            "fa": "شارجه",
+            "code": "AE-SH"
+        },
+        {
+            "ar": "أم القيوين",
+            "country": "AE",
+            "en": "Umm Al Quwain",
+            "fa": "ام القوین",
+            "code": "AE-UQ"
         }
     ]
 }
